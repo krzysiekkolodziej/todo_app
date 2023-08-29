@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Simple back-end app built using [NestJS] and [PostgreSQL]
 
 ## Installation
 
